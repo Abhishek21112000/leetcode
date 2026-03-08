@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/Abhishek21112000/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21112000/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0443-string-compression](https://github.com/Abhishek21112000/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek21112000/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21112000/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
