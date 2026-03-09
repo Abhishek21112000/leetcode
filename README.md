@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhishek21112000/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Abhishek21112000/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhishek21112000/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
