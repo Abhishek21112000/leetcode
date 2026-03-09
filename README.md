@@ -36,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek21112000/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek21112000/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 <!---LeetCode Topics End-->
