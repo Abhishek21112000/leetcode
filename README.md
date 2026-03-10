@@ -51,10 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek21112000/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek21112000/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Abhishek21112000/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Abhishek21112000/leetcode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
