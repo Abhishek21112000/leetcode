@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhishek21112000/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Abhishek21112000/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Hash Table
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Abhishek21112000/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
