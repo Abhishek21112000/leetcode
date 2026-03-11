@@ -10,9 +10,8 @@ class Solution:
             count -= (1 if s[i - k] in vowels else 0)
 
             max_count = max(max_count, count)
-
-            #if max_count == K:
-                #break
+            if max_count == k:
+                break
         return max_count
 
         
