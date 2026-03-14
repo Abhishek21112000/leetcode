@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek21112000/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Abhishek21112000/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek21112000/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Abhishek21112000/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek21112000/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -131,10 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
