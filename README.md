@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhishek21112000/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21112000/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +132,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
