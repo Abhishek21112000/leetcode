@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Abhishek21112000/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhishek21112000/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek21112000/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abhishek21112000/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhishek21112000/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
