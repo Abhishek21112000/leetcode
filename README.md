@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Abhishek21112000/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Abhishek21112000/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Abhishek21112000/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -197,4 +199,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
