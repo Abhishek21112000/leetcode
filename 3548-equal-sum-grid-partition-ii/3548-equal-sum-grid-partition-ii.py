@@ -4,7 +4,7 @@ class Solution:
 
         def canPartition(g):
             topSum = 0
-            seen = set()  # cells seen in top section so far
+            seen = set()  
             for i, row in enumerate(g):
                 topSum += sum(row)
                 botSum = total - topSum
