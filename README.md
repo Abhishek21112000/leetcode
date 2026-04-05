@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Abhishek21112000/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Abhishek21112000/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/Abhishek21112000/leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/Abhishek21112000/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek21112000/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Abhishek21112000/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhishek21112000/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Abhishek21112000/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Abhishek21112000/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
