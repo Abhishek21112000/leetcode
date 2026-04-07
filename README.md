@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Abhishek21112000/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Abhishek21112000/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Abhishek21112000/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Abhishek21112000/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek21112000/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Abhishek21112000/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1622-fancy-sequence](https://github.com/Abhishek21112000/leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [2069-walking-robot-simulation-ii](https://github.com/Abhishek21112000/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
