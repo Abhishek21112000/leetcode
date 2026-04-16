@@ -1,38 +1,31 @@
 from collections import defaultdict
 from bisect import bisect_left
-from typing import List
 
 class Solution:
-    def solveQueries(self, nums: List[int], queries: List[int]) -> List[int]:
+    def solveQueries(self, nums, queries):
         n = len(nums)
+        mp = defaultdict(list)
 
-        # Store indices of each value
-        pos = defaultdict(list)
-        for i, x in enumerate(nums):
-            pos[x].append(i)
+        for i, v in enumerate(nums):
+            mp[v].append(i)
 
-        ans = []
+        res = []
 
         for q in queries:
-            arr = pos[nums[q]]
+            arr = mp[nums[q]]
 
-            # only one occurrence
             if len(arr) == 1:
-                ans.append(-1)
+                res.append(-1)
                 continue
 
-            k = bisect_left(arr, q)
+            i = bisect_left(arr, q)
 
-            # previous and next occurrence in circular manner
-            prev_idx = arr[k - 1]
-            next_idx = arr[(k + 1) % len(arr)] if arr[k] == q else arr[k % len(arr)]
+            prev = arr[i - 1]
+            nxt = arr[(i + 1) % len(arr)]
 
-            d1 = abs(q - prev_idx)
-            d1 = min(d1, n - d1)
+            d1 = min(abs(q - prev), n - abs(q - prev))
+            d2 = min(abs(q - nxt), n - abs(q - nxt))
 
-            d2 = abs(q - next_idx)
-            d2 = min(d2, n - d2)
+            res.append(min(d1, d2))
 
-            ans.append(min(d1, d2))
-
-        return ans
+        return res
