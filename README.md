@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/Abhishek21112000/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abhishek21112000/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1622-fancy-sequence](https://github.com/Abhishek21112000/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Abhishek21112000/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhishek21112000/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0396-rotate-function](https://github.com/Abhishek21112000/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Abhishek21112000/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Abhishek21112000/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Abhishek21112000/leetcode/tree/main/0735-asteroid-collision/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0396-rotate-function](https://github.com/Abhishek21112000/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Abhishek21112000/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abhishek21112000/leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek21112000/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
