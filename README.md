@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0061-rotate-list](https://github.com/Abhishek21112000/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhishek21112000/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Abhishek21112000/leetcode/tree/main/0443-string-compression/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Abhishek21112000/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhishek21112000/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
