@@ -10,7 +10,7 @@ class Solution:
 
         max_val = max(nums)
 
-        # Smallest prime factor sieve
+        
         spf = list(range(max_val + 1))
         for i in range(2, isqrt(max_val) + 1):
             if spf[i] == i:
@@ -23,7 +23,7 @@ class Solution:
         def is_prime(x: int) -> bool:
             return x >= 2 and spf[x] == x
 
-        # prime -> list of indices where nums[index] is divisible by that prime
+        
         divisible = defaultdict(list)
 
         for idx, x in enumerate(nums):
@@ -37,9 +37,9 @@ class Solution:
             for p in factors:
                 divisible[p].append(idx)
 
-        # BFS
+      
         q = deque()
-        q.append((0, 0))          # (index, steps)
+        q.append((0, 0))          
         visited = [False] * n
         visited[0] = True
 
@@ -49,21 +49,20 @@ class Solution:
             if i == n - 1:
                 return steps
 
-            # left / right moves
+       
             for nxt in (i - 1, i + 1):
                 if 0 <= nxt < n and not visited[nxt]:
                     visited[nxt] = True
                     q.append((nxt, steps + 1))
 
-            # prime teleport
+            
             val = nums[i]
             if is_prime(val):
-                indices = divisible[val]       # list of indices reachable via this prime
+                indices = divisible[val]       
                 if indices:
                     for nxt in indices:
                         if not visited[nxt]:
                             visited[nxt] = True
                             q.append((nxt, steps + 1))
-                    divisible[val] = []        # clear to avoid reprocessing
-
+                    divisible[val] = []       
         return -1
