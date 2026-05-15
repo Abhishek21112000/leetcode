@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek21112000/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0048-rotate-image](https://github.com/Abhishek21112000/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek21112000/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Abhishek21112000/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Abhishek21112000/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/Abhishek21112000/leetcode/tree/main/0396-rotate-function/) | Medium |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhishek21112000/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek21112000/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Abhishek21112000/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/Abhishek21112000/leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
