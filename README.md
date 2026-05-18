@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek21112000/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Abhishek21112000/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1306-jump-game-iii](https://github.com/Abhishek21112000/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Abhishek21112000/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhishek21112000/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhishek21112000/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Abhishek21112000/leetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Abhishek21112000/leetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Abhishek21112000/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1345-jump-game-iv](https://github.com/Abhishek21112000/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abhishek21112000/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abhishek21112000/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Abhishek21112000/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/Abhishek21112000/leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abhishek21112000/leetcode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1306-jump-game-iii](https://github.com/Abhishek21112000/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/Abhishek21112000/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abhishek21112000/leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Abhishek21112000/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Tree
